@@ -1,4 +1,4 @@
-**Surveillance Optimization Algorithms in Python**
+# Surveillance Optimization Algorithms in Python
 
 This repository contains multiple Python implementations of algorithms aimed at solving the surveillance optimization problem. The goal is to strategically position surveillance agents to monitor targets while minimizing the number of agents used.
 
